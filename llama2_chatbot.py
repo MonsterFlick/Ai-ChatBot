@@ -13,7 +13,6 @@ load_dotenv()
 import os
 from utils import debounce_replicate_run
 from auth0_component import login_button
-from gtts import gTTS
 import io
 
 
